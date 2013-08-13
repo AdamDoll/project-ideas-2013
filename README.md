@@ -88,10 +88,22 @@ DNS Reflection
 --------------
 Write a program that forges the source address on a DNS Query, thus, creating a program capable of DNS reflection
 
+Contribute
+----------
+Contribute to an Open-Source project! Fix a bug, add a feature, anything!
 
+Fork It and Fix It
+------------------
+Write a script that searches GitHub for vulnerable code, forks the repo, fixes the code, and commits the changes!
+There is A LOT of vulnerable code out there `https://github.com/search?q=mysql_query+%24_GET&ref=cmdform&type=Code`
 
+Forge Emails
+------------
+Forge email headers and send them to a friend. Find out which mail carriers black hole forged emails and which ones don't.
 
-
+Learn Android
+-------------
+Not just writing Apps. Learn the internals. Give a presentation on how Android sandboxes apps!
 
 
 

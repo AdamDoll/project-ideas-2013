@@ -31,7 +31,8 @@ If you have an idea that isn't in this file then get a group and begin working.
 Add it to the `projects.txt` file in this repository and get working! 
 
 
-WARNING: THESE PROJECTS SOUND HARD. IN A GROUP WITH GUIDANCE, YOU WILL BE ABLE TO COMPLETE THESE! Promise.
+WARNING: THESE PROJECTS SOUND HARD. THEY ALSO SOUND KICK-ASS. 
+IN A GROUP WITH GUIDANCE, YOU WILL BE ABLE TO COMPLETE THESE! Promise.
 
 JMUbuntu
 --------

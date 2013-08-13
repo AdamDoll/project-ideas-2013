@@ -115,3 +115,6 @@ Bug Bounty
 Try to find a security bug in a website with a Bug Bounty program. Give a presentation on your findings. 
 If you do find something you'll likely get a big payout and a place on their wall-of-fame!
 
+Get a High Score
+----------------
+Get a highscore on a online game by using Burp-Suite or by using Javascript to 'game the system'.

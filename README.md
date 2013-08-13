@@ -20,7 +20,14 @@ and more motivating.
 
 1. More contributions, especially from newer members.
 2. Encourage group collaboration.
-3. Interact with alumni.
-4. Work on a variety of computer related projects and build/do things that members can put on a resu
+3. Interact with alumni who have expertise on related projects and seek guidance.
+4. Work on a variety of computer related projects and build/do things that members can put on a resume.
+
+Ideas
+=====
+
+These ideas are just things I've thought of in about 2 minutes of real thinking. If you have an idea then get a group
+and begin working. Add it to the `projects.txt`
+
 
 

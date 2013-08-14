@@ -118,3 +118,11 @@ If you do find something you'll likely get a big payout and a place on their wal
 Get a High Score
 ----------------
 Get a highscore on a online game by using Burp-Suite or by using Javascript to 'game the system'.
+
+Browser password cracking
+-------------------------
+Write javascript to reference a database of password hashes, and compare the hashes to rainbow tables. 
+This way you can constantly add paswords to crack. Keep track of the hashes tried, so that you can use 
+it in a distributed system. Add the password to the dictionary once it is cracked. Once the code is written 
+post it to a webpage and get the browser to execute the the code. You can now use the distributed power of 
+the browser to crack passwords. 
